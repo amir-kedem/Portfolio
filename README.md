@@ -59,6 +59,9 @@ Demonstrations of object-oriented programming, design patterns and algorithmic t
 
 Small scale applications bridging data-centric logic and production-level coding practices
 
+user - admin
+password - admin
+
 
 Each notebook is documented so you can follow the problem definition, data input, processing steps, modelling or algorithmic logic, result interpretation, and next-steps reflections.
 
