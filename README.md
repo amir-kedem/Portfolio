@@ -3,13 +3,13 @@ Data Science Portfolio
 Data Science & Machine Learning Portfolio
 
 Author: Amir Kedem
-Role Intent: Product Manager / Data Science Collaborator
+Role Intent: Product Manager / Data Science, AI, ML Engineer
 
-🧭 Overview
+# Overview
 
 This repository showcases a curated selection of data science, machine learning and deep-learning projects undertaken by me, designed to demonstrate hands-on experience in end-to-end workflows, algorithm development, implementation, evaluation and documentation. As I pursue my next professional challenge, this portfolio serves to illustrate my technical depth, analytical mindset and ability to collaborate across disciplines.
 
-🚀 What’s included
+# What’s included
 
 The repository is organised into the following folders, each containing Jupyter notebooks, supporting scripts and documentation that highlight key workflows:
 
@@ -17,7 +17,7 @@ The repository is organised into the following folders, each containing Jupyter 
 
 This folder presents classic supervised and unsupervised learning tasks. Highlights include:
 
-Data-wrangling and exploratory analysis using Pandas/NumPy to prepare real-world datasets
+Data imputation and exploratory analysis using Pandas/NumPy to prepare real-world datasets
 
 Feature engineering to extract meaningful signals
 
@@ -45,7 +45,7 @@ This section covers neural-network-based models and advanced architectures. It i
 
 Design of convolutional neural networks (CNNs) for image classification or detection tasks
 
-Utilisation of frameworks such as TensorFlow or PyTorch (or analogous) to build, train and validate deep models
+Utilisation PyTorch to build, train and validate deep models
 
 Transfer-learning, model fine-tuning and evaluation on unseen data
 
@@ -59,64 +59,11 @@ Demonstrations of object-oriented programming, design patterns and algorithmic t
 
 Small scale applications bridging data-centric logic and production-level coding practices
 
-📂 Structure at a glance
-/Machine Learning/
-    ├── notebook_*.ipynb
-    └── scripts/
-  
-/Image Processing/
-    ├── image_pipeline_*.ipynb
-    └── resources/
-  
-/Deep Learning/
-    ├── model_*.ipynb
-    └── pretrained_models/
-  
-/Java/
-    ├── src/
-    └── README_java.md
-
 
 Each notebook is documented so you can follow the problem definition, data input, processing steps, modelling or algorithmic logic, result interpretation, and next-steps reflections.
 
-📝 Why this portfolio is relevant
-
-Demonstrates the full stack of data science tasks: data ingestion, cleaning, exploratory analysis, modelling, and interpretation
-
-Emphasises reproducibility and clarity: notebooks contain narrative explanations, inline comments and visualisations
-
-Highlights adaptability: from classical machine-learning to deep neural networks and from Python notebooks to Java implementations
-
-Aligns with cross-functional strengths: as a Product Manager with a technical bent, it shows that I can partner with UX/UI engineers, data scientists and stakeholders to deliver analytical value end-to-end
-
-✅ How to explore
-
-Clone the repository:
-
-git clone https://github.com/amir-kedem/Portfolio.git
-
-
-Choose a folder of interest (e.g., Deep Learning/)
-
-Open the main notebook (e.g., model_image_classification.ipynb) in Jupyter or VS Code
-
-Review the narrative, code cells, visualisations and conclusions
-
-Look at the accompanying scripts or resource files for production-oriented logic
 
 📎 Contact
 
-If you’d like to discuss these projects, ask for clarifications or explore collaboration opportunities, please reach out to:
-Amir Kedem — amir.kedem@tama.co.il
-
-🔍 Next steps
-
-Going forward, I intend to expand this portfolio by:
-
-Adding more real-world datasets (incl. industry-specific use-cases)
-
-Incorporating deployment examples (e.g., API endpoints, containerisation)
-
-Writing blog-style summaries to accompany each project for broader accessibility
-
-Thank you for reviewing my portfolio. I look forward to the possibility of discussing how I can contribute to your team’s data-driven initiatives.
+If you’d like to discuss these projects or ask for clarifications, please reach out to:
+Amir Kedem — amir@kedems.net
