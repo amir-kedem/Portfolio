@@ -60,6 +60,7 @@ Demonstrations of object-oriented programming, design patterns and algorithmic t
 Small scale applications bridging data-centric logic and production-level coding practices
 
 user - admin
+
 password - admin
 
 
