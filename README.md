@@ -63,6 +63,9 @@ user - admin
 
 password - admin
 
+5. Vibe Coding
+
+Project using Claude Code
 
 Each notebook is documented so you can follow the problem definition, data input, processing steps, modelling or algorithmic logic, result interpretation, and next-steps reflections.
 
