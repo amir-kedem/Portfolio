@@ -15,7 +15,7 @@ Designed and developed a simple interactive game ("Chicken Shooter") that allowe
 
 The project served both as a **learning platform** and a **sandbox for rapid experimentation with new tools**.
 
-![Chicken Shooter Screenshot](https://raw.githubusercontent.com/amir-kedem/Gonni_Game/Screenshot.png)
+![Chicken Shooter Screenshot](https://raw.githubusercontent.com/amir-kedem/Gonnie_Game/main/Screenshot.png)
 
 ### Key Features  
 - Real-time interaction and feedback  
