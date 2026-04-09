@@ -25,7 +25,13 @@ Several projects are built as **experiments with real users** (including non-tec
 The repository is organized into the following areas:
 
 ---
+## 🕒 Project Status
 
+- 🚀 Family Rewards — Active (2026, ongoing product iteration)  
+- 🚀 Chicken Shooter — Active (2026, experimentation & prototyping)  
+- ✅ Machine Learning / Deep Learning / Image Processing — Completed (2024–2025, academic & applied work)
+
+---
 ## 🧠 Machine Learning
 
 Classic and applied ML workflows, including:
