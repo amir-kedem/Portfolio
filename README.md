@@ -1,76 +1,118 @@
-# Portfolio
-Data Science Portfolio
-Data Science & Machine Learning Portfolio
+# Portfolio  
+**Product, Data Science & AI Portfolio**
 
-Author: Amir Kedem
-Role Intent: Product Manager / Data Science, AI, ML Engineer
+**Author:** Amir Kedem  
+**Role Intent:** Product Manager (Data / AI / ML)
+
+---
 
 # Overview
 
-This repository showcases a curated selection of data science, machine learning and deep-learning projects undertaken by me, designed to demonstrate hands-on experience in end-to-end workflows, algorithm development, implementation, evaluation and documentation. As I pursue my next professional challenge, this portfolio serves to illustrate my technical depth, analytical mindset and ability to collaborate across disciplines.
+This repository showcases a curated selection of projects at the intersection of **product management, data science, and AI**.
+
+Rather than focusing only on models, these projects emphasize **end-to-end product thinking**:
+- Identifying real-world problems  
+- Designing simple, usable solutions  
+- Building and iterating on working prototypes  
+- Evaluating outcomes and tradeoffs  
+
+Several projects are built as **experiments with real users** (including non-technical users), reflecting my approach to combining **technical depth with practical product decisions**.
+
+---
 
 # What’s included
 
-The repository is organised into the following folders, each containing Jupyter notebooks, supporting scripts and documentation that highlight key workflows:
+The repository is organized into the following areas:
 
-1. Machine Learning
+---
 
-This folder presents classic supervised and unsupervised learning tasks. Highlights include:
+## 🧠 Machine Learning
 
-Data imputation and exploratory analysis using Pandas/NumPy to prepare real-world datasets
+Classic and applied ML workflows, including:
 
-Feature engineering to extract meaningful signals
+- Data exploration, cleaning, and imputation using Pandas/NumPy  
+- Feature engineering and signal extraction  
+- Model training and evaluation (scikit-learn)  
+- Hyperparameter tuning and cross-validation  
+- Clear problem framing and result interpretation  
 
-Model training and evaluation using scikit-learn (e.g., logistic regression, decision trees, clustering techniques)
+---
 
-Hyperparameter tuning, cross-validation and performance benchmarking
+## 👁️ Image Processing
 
-Clear notebook narratives that explain problem framing, methodology, results and insights
+Computer vision and image analysis projects, focusing on:
 
-2. Image Processing
+- OpenCV-based preprocessing (resizing, filtering, segmentation)  
+- Classical vision techniques and feature extraction  
+- Pipeline visualization and result analysis  
+- Handling real-world challenges (noise, imbalance, annotation quality)  
 
-Here you will find computer-vision and image-analysis projects. Key features:
+---
 
-Use of OpenCV and image-specific preprocessing (e.g., resizing, filtering, segmentation)
+## 🤖 Deep Learning
 
-Implementation of feature-extractors or classic vision algorithms
+Neural network–based approaches and experimentation:
 
-Visualisation of image-based pipelines and results
+- CNN design for classification and detection tasks  
+- Training and evaluation using PyTorch  
+- Transfer learning and fine-tuning  
+- Analysis of performance, overfitting, and generalization  
 
-Discussion of challenges such as imbalance, noise, annotation or interpretability
+---
 
-3. Deep Learning
+## 💻 Java
 
-This section covers neural-network-based models and advanced architectures. It includes:
+Examples of software engineering fundamentals:
 
-Design of convolutional neural networks (CNNs) for image classification or detection tasks
+- Object-oriented design and implementation  
+- Algorithmic thinking and structured problem solving  
+- Bridging data-oriented logic with production-style code  
 
-Utilisation PyTorch to build, train and validate deep models
+---
 
-Transfer-learning, model fine-tuning and evaluation on unseen data
+## 🚀 Product Experiments (Vibe Coding)
 
-Recording of metrics, training/validation curves and brief discussion of results, over-fitting and generalisability
+A collection of hands-on product projects built using modern development tools and rapid prototyping approaches.
 
-4. Java
+These projects focus on:
+- Fast MVP development  
+- Real user interaction and feedback loops  
+- Behavioral design and engagement  
+- Learning through building and iteration  
 
-Recognising the importance of software engineering and cross-language fluency, this folder includes Java code samples:
+### Featured Projects
 
-Demonstrations of object-oriented programming, design patterns and algorithmic thinking
+#### 🎯 Family Rewards  
+A gamified system for managing tasks and rewards in a family environment.  
+Designed to drive consistency and accountability through simple behavioral incentives.
 
-Small scale applications bridging data-centric logic and production-level coding practices
+- Focus on **behavioral design and engagement loops**  
+- Built as a lightweight, real-world product experiment  
+- Demonstrates translating everyday problems into structured systems  
 
-user - admin
+🔗 https://github.com/amir-kedem/family_rewards  
 
-password - admin
+---
 
-5. Vibe Coding
+#### 🐔 Chicken Shooter  
+A collaborative project built with my daughter to explore learning, engagement, and rapid development using new tools.
 
-Project using Claude Code
+- Treated a child as the **primary user and stakeholder**  
+- Focused on **engagement over complexity**  
+- Iterated based on real-time feedback (“what’s fun”)  
+- Used as a sandbox for evaluating new development approaches  
 
-Each notebook is documented so you can follow the problem definition, data input, processing steps, modelling or algorithmic logic, result interpretation, and next-steps reflections.
+🔗 https://amir-kedem.github.io/Gonnie_Game/  
 
+---
 
-📎 Contact
+Each project includes documentation covering problem definition, approach, implementation, and reflections.
 
-If you’d like to discuss these projects or ask for clarifications, please reach out to:
-Amir Kedem — amir@kedems.net
+---
+
+# 📎 Contact
+
+If you’d like to discuss these projects or explore opportunities:
+
+**Amir Kedem**  
+📧 amir@kedems.net  
