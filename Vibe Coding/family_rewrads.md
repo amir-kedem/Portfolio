@@ -29,6 +29,7 @@ The system focuses on simplicity, visibility, and behavioral reinforcement.
 
 ### Tech  
 - Python  
-- (Add here anything relevant: Streamlit / Flask / etc.)
+- Streamlit
+- Vibe Coding using Gemini and Codex
 
 🔗 [View Project](https://github.com/amir-kedem/family_rewards)
